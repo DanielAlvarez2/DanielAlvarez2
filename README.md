@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAlvarez2)](https://github.com/DanielAlvarez2/github-readme-stats)
+HTML, CSS, JavaScript, Node, React, TypeScript, MongoDB, Express
