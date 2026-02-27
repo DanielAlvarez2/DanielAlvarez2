@@ -1,5 +1,5 @@
-HTML, CSS, JavaScript, Node, React, TypeScript, MongoDB, Express  
-
+HTML, CSS, JavaScript, Node, React, TypeScript, MongoDB, Express, Auth  
+  
 Currently Learning:  
 Next.js, PWA's, WebSockets  
   
